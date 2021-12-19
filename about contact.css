@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=PT+Serif:ital,wght@0,400;1,700&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=PT+Serif:ital,wght@1,700&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=Bebas+Neue&family=PT+Serif:ital,wght@1,400;1,700&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+
+
+body{
+    background-image: url(IMAGES/mechanical-engineering-gear-miniature-figures-locksmith.jpg);
+    /* width: 100%; */
+    margin-left: 0px;
+    padding-right: 0px;
+    margin-top: 5px;
+    margin-right: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+
+header{
+    background-color: turquoise;
+    /* border-radius: 20px; */
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 40px;
+    padding: 1px 0px  10px 0px;
+
+  
+}
+
+header h1{
+    
+    display: inline;
+    margin: 10px;
+    /* font-family: 'Abril Fatface', cursive; */
+    font-family: 'Bebas Neue', cursive;
+    float: left;
+    margin-top: 0px;
+    /* margin-right: 0px; */
+
+}
+
+nav ul{
+    
+    margin-left: 900px;
+    font-family: 'Abril Fatface', cursive;
+    list-style-type: none;
+    margin-right: 20px;
+    color: rgb(12, 47, 247);
+    background-image: url(IMAGES/facebook-logo-3.png);
+    
+}
+nav  ul li{
+    
+    float:left;
+    display: inline-block;
+    margin: 8px;
+    
+       
+}
+nav li a { 
+
+    padding-left: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: none
+}
+ 
+nav ul img{
+    color: red;
+}
+.homeyellow:hover{
+    background-color: rgb(231, 240, 107);
+    padding: 0px 15px 0px 10px;
+    border-radius: 10px;
+    
+}
+
+.background{
+    background-color: yellow;
+    padding: 2px 10px 1px 0px ;
+}
+.homeblue{
+    background-color: yellow;
+    padding: 0px 15px 0px 10px ;
+    border-radius: 10px;
+
+}
+.homered:hover{
+    background-color:rgb(231, 240, 107); 
+    padding: 0px 15px 0px 10px ;
+    border-radius: 10px;
+
+
+}
+.about{
+    /* font-family: 'PT Serif', serif; */
+    font-family: 'PT Serif', serif;
+    background-color: rgb(0,  0,  0, 0.6);
+    border-top: yellow;
+    color: white;
+    margin-left: 200px;
+    margin-right:400px ;
+    margin-top: 100px;
+    margin-bottom: 500px;
+    border-radius: 10px;
+    padding: 12px 100px 50px 100px;
+
+    
+}
+.about:hover{
+    background-color:turquoise;
+}
+p img{
+    margin: 50px;
+    border-radius: 100px;
+    
+    margin-left: 60px;
+    
+    
+}
+
+dl dt{
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    float: left;
+    display: inline;
+   
+    margin-right: 150px;
+    margin-left: 100px;
+    font-size: 20px;
+    
+}
+dl dt:hover{
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgb(255, 0, 0);
+    padding: 8px 8px 8px 8px;
+    color: rgb(255, 255, 255);
+    float: left;
+    display: inline;
+    margin-top: 0px;
+    margin-right: 150px;
+    margin-left: 100px;
+    font-size: 20px;
+        padding: 0px 1px 0px 2px;
+
+    
+}
+
+
+ol dt{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    float: left;
+    display: inline;
+    margin-top: 0px;
+    margin-right: 100px;
+    margin-left: 90px;
+    font-size: 20px;
+    padding: 0px 1px 0px 2px;
+}
+.line{
+    background-color: yellow;
+    padding: 0px 0px 5px 0px;
+}
+.background{
+    
+    
+    background-color: yellow;
+    padding: 2px 10px 1px 0px ;
+}
+
+footer{
+    margin-bottom: 500px;
+    margin-bottom: 0px;
+    background-color: rgb(0, 0, 0,0.6);
+    padding: 100px 0px 50px 50px;
+}
+footer  a {
+        
+    display: inline;
+    
+    margin: 160px;
+}
+p img{
+    
+    border-radius: 500px;
+    margin-top: 50px;
+}
+/* footer a:{
+    
+    display: inline;
+    background-color: rgb(255, 255, 255)
+;        padding:20px 20px 20px 20px;
+    margin: 160px;
+}
+footer  ul li{
+    float:center;
+    align-content: center;
+     text-align: center;
+} */
+ul dt{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    display: inline;
+    margin-top: 0px;
+    margin-right: 70px;
+    margin-left: 60px;
+    font-size: 20px;
+    padding: 20px 10px 20px 2px;
+}
+body h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+footer p{
+    color: rgb(255, 255, 255);
+}

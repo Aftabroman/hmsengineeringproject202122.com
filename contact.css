@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=PT+Serif:ital,wght@0,400;1,700&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=Bebas+Neue&family=Lobster&family=PT+Serif:ital,wght@1,400;1,700&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Arvo&family=Pacifico&family=Prompt:wght@200&family=Teko&display=swap');
+
+
+body{
+    /* background-image: url(IMAGES/mechanical-engineering-gear-miniature-figures-locksmith.jpg) ; */
+    background-color: rgb(0, 0, 0,0.6);
+    /* width: 100%; */
+    margin-left: 0px;
+    padding-right: 0px;
+    margin-top: 5px;
+    margin-right: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+ /* .image{
+     background:rgb(0, 0, 0,0.2)
+     
+ } */
+
+
+header{
+    background-color: turquoise;
+    /* border-radius: 20px; */
+    color: rgb(0, 0, 0);
+    width: 110%;
+    height: 40px;
+    padding: 1px 0px  10px 0px;
+
+}
+header h1{
+    
+    display: inline;
+    margin: 10px;
+    font-family: 'Bebas Neue', cursive;
+    float: left;
+    margin-top: 0px;
+    /* margin-right: 0px; */
+
+}
+header h2{
+    font-family: 'Lobster', cursive;
+    display: inline;
+    margin: 10px;
+    text-shadow: chartreuse;
+    /* font-family: 'Abril Fatface', cursive; */
+    float: left;
+    padding-left: 10px;
+    margin-top: 100px;
+    /* margin-right: 0px; */
+
+}
+header h2{
+    /* font-family: 'Lobster', cursive; */
+    display: inline;
+    border-radius: 50px;
+    background-color: rgb(182,179,172);
+    margin: 10px;
+    text-shadow: rgb(212, 56, 56);
+    /* font-family: 'Abril Fatface', cursive; */
+    float: left;
+    margin-top: 100px;
+    /* margin-right: 0px; */
+
+}
+nav ul{
+    
+    margin-left: 900px;
+    font-family: 'Abril Fatface', cursive;
+    list-style-type: none;
+    
+}
+nav  ul li{
+    
+    float:left;
+    display: inline-block;
+    margin: 8px;
+    
+       
+}
+nav li a { 
+    
+
+    padding-left: 15px;
+    color: rgb(0, 0, 0);
+    text-decoration: none
+}
+#bg{
+    background-image: url(IMAGES/aftab\ image.jpg);
+}
+
+.homeyellow:hover{
+    background-color:rgb(231, 240, 107);
+    padding: 0px 15px 0px 10px;
+    border-radius: 10px;
+    
+}
+.background{
+    
+    background-color: yellow;
+    padding: 2px 10px 1px 0px ;
+}
+.homeblue:hover{ 
+    background-color:rgb(231, 240, 107);
+    padding: 0px 15px 0px 10px ;
+    border-radius: 10px;
+    
+
+}
+.homered{
+    /* display: inline; */
+    /* float: right;
+    */
+   
+    background-color:yellow;
+    padding: 0px 15px 0px 10px ;
+    padding-bottom: 0px;
+    border-radius: 10px;
+    
+}
+ 
+
+ }
+ 
+img{
+     padding: 100px 100px 100px 100px;
+     border-radius: 200px;
+     margin-right: 200px;
+     margin-top: 100px;
+ }
+ 
+
+header h2{
+    color: 4b5d9b;
+}
+ 
+ footer{
+    margin-bottom: 0px;
+    background-color: rgb(0, 0, 0,0.6);
+    padding: 50px 50px 50px 50px;
+}
+footer ul li{
+    color: white;
+    align-content: center;
+    margin-left: 50px;
+    padding: 0px 0px 10px 1px;
+}
+    .line{
+        background-color: yellow;
+        padding: 0px 0px 5px 0px;
+    }
+    footer  a {
+        
+        display: inline;
+        
+        margin: 160px;
+    }
+    p img{
+        border-radius: 500px;
+        margin-top: 0px;
+    }
+    footer a:{
+        
+        display: inline;
+        background-color: rgb(255, 255, 255)
+;        padding:20px 20px 20px 20px;
+        margin: 160px;
+    }
+    footer  ul li{
+        float:center;
+        align-content: center;
+         text-align: center;
+    }
+    
